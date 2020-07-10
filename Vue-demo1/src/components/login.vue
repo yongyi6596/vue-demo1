@@ -38,16 +38,34 @@ export default {
         // 验证用户名
         username: [
           // 验证用户名是否合法
-          { required: true, message: '请输入正确的用户名', trigger: 'blur' },
+          {
+            required: true,
+            message: '请输入正确的用户名',
+            trigger: 'blur'
+          },
           // 验证用户名长度
-          { min: 3, max: 10, message: '长度在 3 到 10 个字符', trigger: 'blur' }
+          {
+            min: 3,
+            max: 10,
+            message: '长度在 3 到 10 个字符',
+            trigger: 'blur'
+          }
         ],
         // 验证密码
         password: [
           // 验证用户名是否合法
-          { required: true, message: '请输入正确的密码', trigger: 'blur' },
+          {
+            required: true,
+            message: '请输入正确的密码',
+            trigger: 'blur'
+          },
           // 验证密码长度
-          { min: 6, max: 15, message: '长度在 6 到 15 个字符', trigger: 'blur' }
+          {
+            min: 6,
+            max: 15,
+            message: '长度在 6 到 15 个字符',
+            trigger: 'blur'
+          }
         ]
       }
     }
