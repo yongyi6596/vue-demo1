@@ -917,3 +917,11 @@
 [2020-07-12T19:42:42.582] [DEBUG] cheese - admin
 [2020-07-12T19:42:42.590] [DEBUG] cheese - null
 [2020-07-12T19:42:42.591] [DEBUG] cheese - null
+[2020-07-14T02:19:03.051] [DEBUG] cheese - login => username:admin,password:123456
+[2020-07-14T02:19:03.054] [DEBUG] cheese - admin
+[2020-07-14T02:19:03.332] [DEBUG] cheese - null
+[2020-07-14T02:19:03.333] [DEBUG] cheese - null
+[2020-07-14T08:30:03.500] [DEBUG] cheese - login => username:admin,password:123456
+[2020-07-14T08:30:03.515] [DEBUG] cheese - admin
+[2020-07-14T08:30:03.795] [DEBUG] cheese - null
+[2020-07-14T08:30:03.797] [DEBUG] cheese - null
