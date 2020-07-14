@@ -1,6 +1,5 @@
 import Vue from 'vue'
 import { MessageBox } from 'element-ui';
-
 import { Button,Dropdown,Tag,Card,Tree ,Row ,DropdownItem,Col,Table,Tooltip} from 'element-ui'
 import { Form,FormItem ,BreadcrumbItem ,DropdownMenu,Select} from 'element-ui'
 import { Input,Main ,Dialog,Breadcrumb,Option,Switch} from 'element-ui'
@@ -9,8 +8,6 @@ import { Message ,Pagination,Container ,TableColumn,Header, Aside ,Menu ,Submenu
 Vue.use(Dropdown)
 Vue.use(DropdownMenu)
 Vue.use(DropdownItem)
-
-
 Vue.use(Tag)
 Vue.use(Button)
 Vue.use(Form)
